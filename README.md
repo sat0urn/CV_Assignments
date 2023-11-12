@@ -1,4 +1,4 @@
-# Computer Vision Assignment
+# ***Computer Vision Assignments***
 
 - Assignment #1 [https://github.com/sat0urn/CV_Assignments/blob/main/Assignment_1.ipynb]
 - Assignment #2 [https://github.com/sat0urn/CV_Assignments/blob/main/Assignment_2.ipynb]
